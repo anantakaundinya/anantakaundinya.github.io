@@ -1,0 +1,25 @@
+.title {
+	color: #00FFFF;
+}
+body, html {
+  /* The image used */
+  background-image: url("chinese_flag.jpg");
+
+  /* Full height */
+  height: 111.5%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#names {
+	color: #00FFFF;
+}
+
+
+#congrats {
+	color: #00FFFF;
+}
