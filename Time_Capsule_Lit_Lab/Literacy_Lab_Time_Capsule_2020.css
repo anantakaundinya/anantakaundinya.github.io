@@ -57,4 +57,7 @@ body, html {
 		height:375px;
 		border:5px solid green;
 		color:salmon;
-	}	  
+	}	 
+	#dateofpublish {
+		color: #00FF00
+	} 
