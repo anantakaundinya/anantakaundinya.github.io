@@ -1,0 +1,35 @@
+.title {
+    color: #3CB371
+}
+body, html {
+	/* The image used */
+	background-image: url("basketball.jpg");
+
+	/* Full height */
+	height:145%;
+	width:99.5%;
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}    
+.boxed {
+    width:1450px;
+    height:75px;
+    border:10px solid chartreuse;
+}
+.boxed1 {
+    width:1450px;
+    height:3190px;
+    border:10px solid chocolate;
+}
+.boxed2 {
+    width: 720px;
+    height:950px;
+    border:10px solid chartreuse;
+}
+h1.big {
+    background-color:orangered;
+    width:1450px;
+}
