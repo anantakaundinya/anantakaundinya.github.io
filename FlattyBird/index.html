@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>FlattyBird</title>
+    <link href="style.css" rel="stylesheet" />
+    <link rel="icon" type="text/png" href="bird.png">
+</head>
+
+<body>
+<!--	 Testing the git command line tool-->
+    <div id="container">
+
+        <div id="bird"></div>
+
+        <div id="pole_1" class="pole"></div>
+        <div id="pole_2" class="pole"></div>
+
+    </div>
+
+    <div id="score_div">
+        <p><b>Score: </b><span id="score">0</span></p>
+        <p><b>Speed: </b><span id="speed">10</span></p>
+    </div>
+
+    <button id="restart_btn">Restart</button>
+
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+    <div class="boxed">
+    <h1>What was your high score in FlattyBird if you played it? (Note: Write it every time you play. It doesn't matter if you get a lower score next round.)</h1>
+    <form>
+        Name: <input type="text" required>
+        <div>&nbsp</div>
+        High score: <input type="text" required>
+     
+
+        <br><br>
+        <input type="submit" name="submit" value="Submit">  
+</form>
+</div>
+
+
+</body>
+
+</html>
