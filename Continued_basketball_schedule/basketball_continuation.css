@@ -15,7 +15,7 @@ body, html {
 	background-size: cover;
 }    
 .boxed {
-    width:2300px;
+    width:2200px;
     height:500px;
     border:10px solid chartreuse;
 }
