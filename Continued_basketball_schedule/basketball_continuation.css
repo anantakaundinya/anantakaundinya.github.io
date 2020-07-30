@@ -16,7 +16,7 @@ body, html {
 }    
 .boxed {
     width:1450px;
-    height:1450px;
+    height:750px;
     border:10px solid chartreuse;
 }
 .boxed1 {
