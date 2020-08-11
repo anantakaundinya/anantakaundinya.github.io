@@ -1,0 +1,28 @@
+.title {
+    color: khaki
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+.winner {
+    width: 900px;
+    height: 1150px;
+    border: 10px solid yellow
+}
+body, html {
+    /* The image used */
+    background-image: url("https://image.shutterstock.com/image-photo/chennai-india-sri-ramakrishna-math-600w-1723969033.jpg");
+  
+    /* Full height */
+    height: 130%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #alert {
+      color: blueviolet
+  }
