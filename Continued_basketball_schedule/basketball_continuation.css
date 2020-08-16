@@ -24,11 +24,6 @@ body, html {
     height:3260px;
     border:10px solid chocolate;
 }
-.boxed2 {
-    width: 720px;
-    height:950px;
-    border:10px solid chartreuse;
-}
 h1.big {
     background-color:orangered;
     width:500px;
