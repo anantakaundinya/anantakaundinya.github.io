@@ -1,0 +1,82 @@
+h1 {
+    color: rosybrown
+}
+#saying {
+    color:goldenrod
+}
+ul {
+    list-style-position: outside; /* Aligns the list vertically */
+    padding-left: 30px; /* Optional */
+    }
+    
+    li { margin-bottom: 15px; /* Optional */ }
+    .fade-in {
+        animation: fadeIn ease 10s;
+        -webkit-animation: fadeIn ease 100s;
+        -moz-animation: fadeIn ease 100s;
+        -o-animation: fadeIn ease 100s;
+        -ms-animation: fadeIn ease 100s;
+      }
+      @keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-moz-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-webkit-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-o-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-ms-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+      }}
+.hate {
+    width: 200px;
+    height: 110px;
+    border: 10px solid gold;
+    background-color: white;
+}
+.secret-in-a-bottle {
+    width: 1000px;
+    height: 275px;
+    background-color: white;
+}
+a:visited {
+    color: blue
+}
+a{
+    text-decoration: none;
+}
+a:active {
+    color:orange;
+}
